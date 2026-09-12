@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix Remix Remix ArogyaMitra — AI Sahayak for Case-Taking \u0026 Triage",
+  "description": "Unified AI-powered, dialect-aware pre-consultation intake \u0026 tele-triage software with GIS context, red flag fail-safe, 4-layer anti-hallucination, vitals bridge, prescription OCR, and AYUSH Prakriti profiling (SIH 26047).",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
